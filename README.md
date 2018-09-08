@@ -8,7 +8,7 @@ SStap 优化版(便携版)https://dlc.ssrshare.xyz/sstap_Modified/
 
 SStap 原版(安装版)https://dlc.ssrshare.xyz/list/32586/
 
-SSR 客户端（Ios版）https://www.lanzous.com/i131n6j
+SSR 客户端（ iOS版）https://www.lanzous.com/i131n6j
 
 酸酸乳download
 酸酸甜甜我做主
