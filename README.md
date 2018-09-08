@@ -1,4 +1,1 @@
-Shadowsocks
-[​IMG] Windows
-Shadowsocks 4.1.1
-Github & Yandex & DIXSSR & MEGA
+如果遇到任何问题，请首先参考 https://github.com/shadowsocks/shadowsocks-windows/wiki/Troubleshooting
