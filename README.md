@@ -1,10 +1,17 @@
-必备条件
-JDK 1.8
-去1.11+
-Android SDK
-Android NDK r16 +
-建立
-您可以通过检查Travis状态来检查在UNIX环境下是否构建最新提交。从＃1570开始，也可以在Windows上构建，但可能很痛苦。关于在Windows上构建的进一步贡献也是受欢迎的。
+酸酸乳使用教程https://www.lanzous.com/b258733
+
+SSR 客户(PC版)http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip
+
+SSR 客户端(安卓版)http://dixssr.tk/Proxy/ShadowsocksR/Android/shadowsocksr-android-3.5.4.apk
+
+SSR 客户端(MacOS版)https://dlc.ssrshare.xyz/list/32584/
+
+SStap 优化版(便携版)https://dlc.ssrshare.xyz/sstap_Modified/
+
+SStap 原版(安装版)https://dlc.ssrshare.xyz/list/32586/
+
+SSR 客户端（ iOS版）https://www.lanzous.com/i131n6j
+
 
 将环境变量设置ANDROID_HOME为/path/to/android-sdk
 （可选）设置环境变量ANDROID_NDK_HOME来/path/to/android-ndk（默认值：$ANDROID_HOME/ndk-bundle）
