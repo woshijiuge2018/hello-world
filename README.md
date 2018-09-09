@@ -1,3 +1,37 @@
+必备条件
+JDK 1.8
+去1.11+
+Android SDK
+Android NDK r16 +
+建立
+您可以通过检查Travis状态来检查在UNIX环境下是否构建最新提交。从＃1570开始，也可以在Windows上构建，但可能很痛苦。关于在Windows上构建的进一步贡献也是受欢迎的。
+
+将环境变量设置ANDROID_HOME为/path/to/android-sdk
+（可选）设置环境变量ANDROID_NDK_HOME来/path/to/android-ndk（默认值：$ANDROID_HOME/ndk-bundle）
+使用git clone --recurse-submodules <repo>或更新子模块克隆repogit submodule update --init --recursive
+使用Android Studio或gradle脚本构建它
+翻译
+开源许可证
+redsocks：APL 2.0
+mbed TLS：APL 2.0
+libevent：BSD
+tun2socks：BSD
+pcre：BSD
+libancillary：BSD
+shadowsocks-libev：GPLv3
+序曲：麻省理工学院
+libev：GPLv2
+libsodium：ISC
+执照
+版权所有（C）2017年由Max吕< max.c.lv@gmail.com > 
+版权（C）2017年由MYGOD工作室< contact-shadowsocks-android@mygod.be >
+
+此程序是免费软件：您可以根据自由软件基金会发布的GNU通用公共许可证条款（许可证版本3）或（根据您的选择）任何更高版本重新分发和/或修改它。
+
+本程序的发布是希望它有用，但没有任何担保; 甚至没有适销性或特定用途适用性的暗示保证。有关更多详细信息，请参阅GNU通用公共许可证。
+
+您应该已收到GNU通用公共许可证的副本以及此程序。如果没有，请参阅http://www.gnu.org/licenses/。
+
 酸酸乳使用教程https://www.lanzous.com/b258733
 
 SSR 客户(PC版)http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip
