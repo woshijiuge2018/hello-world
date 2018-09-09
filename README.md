@@ -1,6 +1,8 @@
-酸酸乳使用教程https://www.lanzous.com/b258733
+HTTP下载器
+使用本地http代理服务器方式嗅探下载请求，支持所有操作系统和大部分主流浏览器,支持分段下载和断点下载。
 
-SSR 客户(PC版)http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip
+使用教程酸酸乳使用教程https://www.lanzous.com/b258733
+下载SSR 客户(PC版)http://dixssr.tk/Proxy/ShadowsocksR/Windows/ShadowsocksR-win-4.9.0.zip
 
 SSR 客户端(安卓版)http://dixssr.tk/Proxy/ShadowsocksR/Android/shadowsocksr-android-3.5.4.apk
 
@@ -12,32 +14,46 @@ SStap 原版(安装版)https://dlc.ssrshare.xyz/list/32586/
 
 SSR 客户端（ iOS版）https://www.lanzous.com/i131n6j
 
+酸酸乳更新 在群里面
 
-将环境变量设置ANDROID_HOME为/path/to/android-sdk
-（可选）设置环境变量ANDROID_NDK_HOME来/path/to/android-ndk（默认值：$ANDROID_HOME/ndk-bundle）
-使用git clone --recurse-submodules <repo>或更新子模块克隆repogit submodule update --init --recursive
-使用Android Studio或gradle脚本构建它
-翻译
-开源许可证
-redsocks：APL 2.0
-mbed TLS：APL 2.0
-libevent：BSD
-tun2socks：BSD
-pcre：BSD
-libancillary：BSD
-shadowsocks-libev：GPLv3
-序曲：麻省理工学院
-libev：GPLv2
-libsodium：ISC
-执照
-版权所有（C）2017年由Max吕< max.c.lv@gmail.com > 
-版权（C）2017年由MYGOD工作室< contact-shadowsocks-android@mygod.be >
+备注：因为使用方法及其简单，所以自行摸索，请勿发邮、勿私聊询问。。
 
-此程序是免费软件：您可以根据自由软件基金会发布的GNU通用公共许可证条款（许可证版本3）或（根据您的选择）任何更高版本重新分发和/或修改它。
+常见问题(必看)
+在开始使用前务必看一遍常见问题列表，可以解决你使用proxyee-down下载遇到的绝大多数问题。
 
-本程序的发布是希望它有用，但没有任何担保; 甚至没有适销性或特定用途适用性的暗示保证。有关更多详细信息，请参阅GNU通用公共许可证。
+常用功能
+手动创建任务
+可以根据链接来创建一个任务，支持自定义请求头和请求体，具体请查看。
 
-您应该已收到GNU通用公共许可证的副本以及此程序。如果没有，请参阅http://www.gnu.org/licenses/。
+刷新任务下载链接
+当任务下载链接失效了，下载没速度或失败则可以使用刷新下载链接的功能，使用新的链接继续下载，具体请查看。
+
+百度云破解
+2018-03-29更新
+百度云近期对批量下载的并发连接数做了限制，如果选择的文件里包含文件夹，分段数需要建议不要超过64，否则可能会导致任务下载失败或下载速度慢。
+
+功能介绍
+百度云大文件、合并下载限制突破,成功安装下载器后，打开百度云页面会有如下提示，然后在选择文件后点击下载按钮即可调用proxyee-down下载
+百度云破解
+
+百度云解压工具
+由于百度批量下载的zip压缩包不是zip64格式，在压缩包里有超过4G文件的时候普通的解压工具并不能正确的识别文件大小从而导致压缩失败，遇到这种情况时可以在下载器左侧工具栏目里找到百度云解压工具进行解压 百度云解压
+
+其他
+SwitchyOmega插件安装与设置
+查看
+
+手动安装证书
+查看
+
+开放接口
+查看
+
+QQ群
+1群11352304、2群20236964、3群20233754、4群737991056
+
+支持
+感谢 惶心|技术博客 提供下载服务
 
 酸酸乳使用教程https://www.lanzous.com/b258733
 
