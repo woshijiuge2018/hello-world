@@ -15,4 +15,5 @@ SSR 客户端（ iOS版）https://www.lanzous.com/i131n6j
 酸酸乳更新 在群里面
 
 备注：因为使用方法及其简单，所以自行摸索，请勿发邮、勿私聊询问。。
-![]()https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180908082046.jpg
+
+![](https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180908082046.jpg）
