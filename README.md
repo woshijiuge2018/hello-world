@@ -32,4 +32,4 @@
 从上面的例子可以看到，服务器资源是大家共享的，使用的人越多，人均分到的资源就越少。
 
 欢迎加入酸酸乳分享企鹅群877533818
-![](https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180917070745.png)
+![](https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180922162708.png)
