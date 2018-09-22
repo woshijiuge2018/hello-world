@@ -23,6 +23,8 @@
 ![](https://github.com/woshijiuge2018/hello-world/blob/master/%E9%85%B8%E9%85%B8%E4%B9%B3%E5%A6%82%E4%BD%95%E5%B8%A6%E4%BD%A0%E7%95%85%E6%B8%B8%E4%B8%96%E7%95%8C(1).jpg)
 ![](https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180914222519.jpg)
 ![](https://github.com/woshijiuge2018/-2/blob/master/67Zwz7V.gif)
+![](https://github.com/woshijiuge2018/hello-world/blob/master/QQ%E5%9B%BE%E7%89%8720180914221515.jpg)
+
 由于很多酸酸乳 卖家都是以盈利为目的，需要花费一定的费用。
 那么，自己想要有一个酸酸乳账号的话，到底是选用哪种比较好呢？可以看到网上很多卖 酸酸乳 账号的，有的价格很便宜，比自己搭服务器划算多了，是不是直接购买一个账号比较好呢？
 
