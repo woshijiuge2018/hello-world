@@ -14,7 +14,7 @@
 
 [SSR 客户端（ iOS版）](https://www.lanzous.com/i131n6j)
 
-[酸酸甜甜我做主](http://www.lanzou.com/u)
+[酸酸甜甜我做主](https://www.lanzous.com/b258734/)
 
 **酸酸乳每天更新，在群里面!**
 
